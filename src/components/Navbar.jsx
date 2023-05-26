@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Navbar = () => {
   return (
     <Wrapper>
-      <div>Welcome, to Thapa Education Hub</div>
+      <div>Welcome, To Dashboard</div>
       <h1>Admin Table</h1>
 
       <section>
